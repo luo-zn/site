@@ -6,6 +6,8 @@ description: > # this means to ignore newlines until "twitter_username:"
 
 list_title: 文章
 
+show_excerpts: false # set to true to show excerpts on the homepage
+
 header_pages:
   - about.md
   - portfolio.md
