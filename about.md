@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+本站点根据Jekyll theme进行自定义. 更多详细信息查看 [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
+主题的源码托管在GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
