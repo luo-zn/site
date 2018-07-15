@@ -3,3 +3,7 @@ title: Jenner Site
 author: Jenner.Luo
 email: jannanlo@163.com
 
+
+header_pages:
+  - about.md
+  - portfolio.md
