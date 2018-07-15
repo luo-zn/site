@@ -4,7 +4,8 @@ email: jannanlo@163.com
 description: > # this means to ignore newlines until "twitter_username:"
   个人技术博客
 
-list_title: 文章
+page:
+  list_title: 文章
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
