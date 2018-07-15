@@ -1,12 +1,16 @@
-theme: minima
 title: Jenner Site
 author: Jenner.Luo
 email: jannanlo@163.com
+description: > # this means to ignore newlines until "twitter_username:"
+  个人技术博客
 
 list_title: 文章
 
 header_pages:
   - about.md
   - portfolio.md
+  
+  
+theme: minima
   
   
